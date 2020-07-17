@@ -2,7 +2,7 @@
   <samp>
     I'm Helia Pan✌️
     <br><br>
-    I'm front-end developer from china🇨🇳
+    front-end developer from china🇨🇳
   </samp>
 </p>
 
