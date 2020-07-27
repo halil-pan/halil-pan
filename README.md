@@ -8,8 +8,10 @@
 
 <br>
 
-![STPace Github Stats](https://github-readme-stats.vercel.app/api?username=STPace&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![STPace Github Stats](https://github-readme-stats.vercel.app/api?username=STPace&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=STPace&repo=fe-spring&theme=radical)](https://github.com/STPace/fe-spring)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=STPace&repo=aolige&theme=radical)](https://github.com/STPace/aolige)
 
 **Languages:**  
 
