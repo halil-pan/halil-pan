@@ -1,8 +1,6 @@
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/STPace/STPace/master/head.svg" width="800" height="400">
-  <br>
-</div>
+<h3 align='center'>
+  <samp>Hi there, I am STPace</samp>
+</h3>
 
 <p align="center">
   🚹<br />
