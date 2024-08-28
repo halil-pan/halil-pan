@@ -1,12 +1,14 @@
 <h1 align='center'>
-  Hi there 👋 I'm S.T.P 👨‍💻
+  Hi there 👋 I'm halil 👨‍💻
 </h1>
 
 <p align='center'>
   Slow is smooth, smooth is fast. 🌬
 </p>
 
-<br />
+- I'm currently working on an app: [rotd](https://github.com/rotd-hood/app)
+- My playground: [halil's playground](https://github.com/halil-playground)
+
 <br />
 
 <details>
