@@ -6,8 +6,9 @@
   Slow is smooth, smooth is fast. 🌬
 </p>
 
-- I'm currently working on an app: [rotd](https://github.com/rotd-hood/app)
-- My playground: [halil's playground](https://github.com/halil-playground)
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/125687311/latest-rides/d0f03ebb63515215d7a06d46de29b61f2c2c2960'></iframe>
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/125687311/activity-summary/d0f03ebb63515215d7a06d46de29b61f2c2c2960'></iframe>
 
 <br />
 
